@@ -11,7 +11,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 1. Get your dataset. To do so, follow these steps:
  * The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the USGS GeoJSON Feed Links to an external site.page and choose a dataset to visualize. The following image is an example screenshot of what appears when you visit this link:
- * <p align="center"><img src="https://static.bc-edx.com/data/dl-1-1/m15/lms/img/3-Data.jpg" alt="3-Data" tabindex="0" role="button" aria-label="3-Data. Click to Enlarge."></p>
+  <p align="center"><img src="https://static.bc-edx.com/data/dl-1-1/m15/lms/img/3-Data.jpg" alt="3-Data" tabindex="0" role="button" aria-label="3-Data. Click to Enlarge."></p>
  * When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization. The following image is a sampling of earthquake data in JSON format:
- * <p align="center"><img src="https://static.bc-edx.com/data/dl-1-1/m15/lms/img/4-JSON.jpg" alt="4-JSON" tabindex="0" role="button" aria-label="4-JSON. Click to Enlarge."></p>
+  <p align="center"><img src="https://static.bc-edx.com/data/dl-1-1/m15/lms/img/4-JSON.jpg" alt="4-JSON" tabindex="0" role="button" aria-label="4-JSON. Click to Enlarge."></p>
 
