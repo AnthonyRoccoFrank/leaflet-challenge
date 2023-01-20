@@ -15,3 +15,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
  * When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization. The following image is a sampling of earthquake data in JSON format:
  * <p align="center"><img src="https://static.bc-edx.com/data/dl-1-1/m15/lms/img/4-JSON.jpg" alt="4-JSON" tabindex="0" role="button" aria-label="4-JSON. Click to Enlarge."></p>
 
+2. Import and visualize the data by doing the following:
+ * Using Leaflet, create a map that plots all the earthquakes from your dataset based on their longitude and latitude.
+  ** Your data markers should reflect the magnitude of the earthquake by their size and the depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger, and earthquakes with greater depth should appear darker in color.
+  ** Hint: The depth of the earth can be found as the third coordinate for each earthquake.
